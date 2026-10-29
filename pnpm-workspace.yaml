@@ -1,0 +1,5 @@
+# Dependencies allowed to run install scripts. pnpm blocks all others,
+# and in CI an unapproved one fails the install.
+allowBuilds:
+  '@swc/core': true
+  esbuild: true
