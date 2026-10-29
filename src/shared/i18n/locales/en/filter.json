@@ -1,1 +1,13 @@
-{}
+{
+	"title": "Filter",
+	"close": "Close filters",
+	"clearAll": "Clear all parameters",
+	"apply": "Apply",
+	"loading": "Loading filters…",
+	"error": "Could not load filters",
+	"confirm": {
+		"title": "Do you want to apply new filter?",
+		"accept": "Apply new filter",
+		"cancel": "Use old filter"
+	}
+}
